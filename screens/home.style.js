@@ -26,6 +26,12 @@ position:"absolute",
 bottom:16,
 
 },
+cartNumber:{
+    fontFamily:"reguler",
+    fontWeight:"600",
+    fontSize:"10",
+    color:COLORS.lightWhite
+}
 
 })
 
